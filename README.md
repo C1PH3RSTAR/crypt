@@ -9,11 +9,17 @@ Click submit
 Congrats! You made a site skin you can use! Now scroll down to the bottom of the page and click use to use it.
 
 Mild extra customization info, at the bottom of the CSS code, I added a section that looks like this:
+
 #workskin,
+
 .blurb,
+
 .comment {
-  font-size: 130%;
-  min-width: 300px;
+
+font-size: 130%;
+
+min-width: 300px;
+
 }
 
 All this does is make the font size bigger because it strains my eyes otherwise.
