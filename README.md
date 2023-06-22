@@ -1,12 +1,19 @@
 # crypt
 
 These are siteskins for ao3, using them is simple.
+
 Go to https://archiveofourown.org/skins/new?skin_type=Skin
+
 Title it whatever you want
+
 Copy the raw code in one of these files (If you didn't know, you can easily copy it all by clicking into the text box and pressing Ctrl+A, then Ctrl+C)
+
 Paste it into the CSS text input section
+
 Click submit
+
 Congrats! You made a site skin you can use! Now scroll down to the bottom of the page and click use to use it.
+
 
 Mild extra customization info, at the bottom of the CSS code, I added a section that looks like this:
 
