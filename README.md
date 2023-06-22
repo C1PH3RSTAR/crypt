@@ -30,7 +30,9 @@ min-width: 300px;
 }
 
 All this does is make the font size bigger because it strains my eyes otherwise.
+
 font-size: 130%; is what does this. You can change, or remove this if you want.
+
 min-width: 300px; is a tiny bit more complicated, but still easy to understand. It just means that this bit of code only applies if the display is at least 300 pixels wide.
 This means that if you're using ao3 on something with a screen that's less than that, it won't make the font bigger, so it doesn't cause formatting issues that might make it
 annoying to read. Since ao3 skins are applied for your account and not just that device, you may want to make sure this is set to something larger than your phone if you plan on 
